@@ -1,2 +1,2 @@
-# BOJ_JavaScript
-BOJ JavaScript
+# BOJ JavaScript
+BOJ Solutions in JavaScript
