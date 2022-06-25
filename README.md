@@ -1,2 +1,2 @@
 # BOJ JavaScript
-BOJ Solutions in JavaScript
+Step-by-step BOJ Solutions in JavaScript
