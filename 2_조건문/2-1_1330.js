@@ -1,13 +1,13 @@
 const fs = require('fs');
 const input = fs.readFileSync('/dev/stdin', 'utf8').toString().split(' ');
 
-const A = Number(input[0])
-const B = Number(input[1])
+const A = Number(input[0]);
+const B = Number(input[1]);
 
 if (A > B) {
-  console.log('>')
+  console.log('>');
 } else if (A < B) {
-  console.log('<')
+  console.log('<');
 } else {
-  console.log('==')
+  console.log('==');
 }
