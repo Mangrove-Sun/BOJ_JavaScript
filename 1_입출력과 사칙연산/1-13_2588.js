@@ -1,5 +1,5 @@
 const fs = require('fs');
-const input = fs.readFileSync('input.txt', 'utf8').toString().split('\n');
+const input = fs.readFileSync('/dev/stdin', 'utf8').toString().split('\n');
 
 const a = Number(input[0]); // 첫 번째 입력값을 숫자데이터로 변환
 const b = input[1].trim().split(''); // 두 번째 입력값을 한 글자 단위로 나눔
