@@ -1,5 +1,5 @@
 const fs = require('fs');
-const input = fs.readFileSync('input.txt', 'utf8').toString();
+const input = fs.readFileSync('/dev/stdin', 'utf8').toString();
 
 const N = Number(input);
 
