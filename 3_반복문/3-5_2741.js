@@ -10,5 +10,3 @@ for (let i = 1; i <= range; i += 1) {
 }
 
 console.log(answer);
-
-// 메모리 22840KB / 시간 248ms
