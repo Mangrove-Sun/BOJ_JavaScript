@@ -1,5 +1,5 @@
 const fs = require('fs');
-const input = fs.readFileSync('input.txt').toString().split('\n');
+const input = fs.readFileSync('/dev/stdin').toString().split('\n');
 
 const range = Number(input[0]);
 const nums = input[1].split(' ');
